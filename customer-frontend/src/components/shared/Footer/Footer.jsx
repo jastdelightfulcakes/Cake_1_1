@@ -17,7 +17,7 @@ export const Footer = () => {
       <footer className="footer">
         <div className="wrapper">
           <div className="footer-top">
-            <div className="footer-top__social">
+            <div className="footer-top__social" style={{ width: "50%" }}>
               <span style={{ color: "#fff" }}>Find us here:</span>
               <ul>
                 {footerSocial.map((social, index) => (
