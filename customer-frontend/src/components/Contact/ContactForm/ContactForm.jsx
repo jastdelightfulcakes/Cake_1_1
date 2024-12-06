@@ -27,6 +27,7 @@ export const ContactFrom = () => {
                             Write to us if you have any questions, we will definitely contact
                             you and find a solution.
                             If you want to place an order, then mention entire order details including date and other requirements.
+                            <br></br>
                             (NOTE: Do not forget to mention your phone number.)
                         </p>
                         <form action="https://formsubmit.co/eventspdpu@gmail.com" method="POST" onSubmit={handleSubmit}>
