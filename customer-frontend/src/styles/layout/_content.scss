@@ -5645,6 +5645,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
   .main-block p {
     font-size: 16px;
+    backdrop-filter: blur(1px);
   }
 
   .main-block .btn {
