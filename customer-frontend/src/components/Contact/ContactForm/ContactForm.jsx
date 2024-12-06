@@ -30,7 +30,7 @@ export const ContactFrom = () => {
                             <br></br>
                             (NOTE: Do not forget to mention your phone number.)
                         </p>
-                        <form action="https://formsubmit.co/jastdelightfulcakes@gmail.com" method="POST" onSubmit={handleSubmit}>
+                        <form action="https://formsubmit.co/jastdelightfulcake@gmail.com" method="POST" onSubmit={handleSubmit}>
                             <input type="hidden" name="_captcha" value="false"></input>
                             <input type="hidden" name="_next" value="http://localhost:3000/contact"></input>
                             <div className="box-field">
