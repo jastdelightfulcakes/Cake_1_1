@@ -10,7 +10,8 @@ export const Banner = () => {
             {/* <span className='saint-text'>Professional</span> */}
             <h1 className="main-text">Jast Delightful Cakes</h1>
             <p>
-              Welcome to our bakery, founded by Stuti and Jaini, where every bite is a delightful experience crafted with love and passion.
+              Welcome to our bakery!
+              Founded by Stuti and Jaini, where every bite is a delightful experience crafted with love and passion.
             </p>
 
             {/*<Link href="/shop">*/}
