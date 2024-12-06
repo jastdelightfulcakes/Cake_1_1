@@ -5044,18 +5044,18 @@ input[type="search"]::-webkit-search-results-decoration {
   .main-block {
     position: relative;
     z-index: 1;
-    // background-position: inherit;
+    background-position: inherit;
 
-    &:after {
-    	z-index: -1;
-    	position: absolute;
-    	top: 0;
-    	left: 0;
-    	width: 100%;
-    	height: 100%;
-    	content: '';
-    	background-color: rgba(34, 34, 34, 0.15);
-    }
+    // &:after {
+    // 	z-index: -1;
+    // 	position: absolute;
+    // 	top: 0;
+    // 	left: 0;
+    // 	width: 100%;
+    // 	height: 100%;
+    // 	content: '';
+    // 	background-color: rgba(34, 34, 34, 0.15);
+    // }
     p {
       color: #000;
     }
@@ -5629,7 +5629,9 @@ input[type="search"]::-webkit-search-results-decoration {
   }
 
   .main-block__decor {
-    display: none;
+    // display: none;
+    top: 30%;
+    width: 100%;
   }
 
   .main-block .saint-text {
