@@ -23,7 +23,7 @@ export const ContactFrom = () => {
             }}>
                     <div className="discount-info">
                         <span className="main-text">leave a message</span>
-                        <p style={{ alignItems: justified }}>
+                        <p style={{ "alignItems": "right" }}>
                             Write to us if you have any questions, we will definitely contact
                             you and find a solution.
                             If you want to place an order, then mention entire order details including date and other requirements.
