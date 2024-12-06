@@ -58,7 +58,7 @@ export const Footer = () => {
           </div>
           <div className="footer-copy">
             <span style={{ color: "#fff" }}>
-              &copy; All rights reserved. Jast Delightful Cakes 2024
+              &copy; 2024 Jast Delightful Cakes | All rights reserved
             </span>
           </div>
         </div>
